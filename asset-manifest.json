@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.0c4c62ef.chunk.css",
+    "main.js": "/react-website/static/js/main.199ad4b9.chunk.js",
+    "main.js.map": "/react-website/static/js/main.199ad4b9.chunk.js.map",
+    "runtime-main.js": "/react-website/static/js/runtime-main.7fb2fac4.js",
+    "runtime-main.js.map": "/react-website/static/js/runtime-main.7fb2fac4.js.map",
+    "static/js/2.119be821.chunk.js": "/react-website/static/js/2.119be821.chunk.js",
+    "static/js/2.119be821.chunk.js.map": "/react-website/static/js/2.119be821.chunk.js.map",
+    "index.html": "/react-website/index.html",
+    "static/css/main.0c4c62ef.chunk.css.map": "/react-website/static/css/main.0c4c62ef.chunk.css.map",
+    "static/js/2.119be821.chunk.js.LICENSE.txt": "/react-website/static/js/2.119be821.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-website/static/media/pink.aadd7898.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fb2fac4.js",
+    "static/js/2.119be821.chunk.js",
+    "static/css/main.0c4c62ef.chunk.css",
+    "static/js/main.199ad4b9.chunk.js"
+  ]
+}
